@@ -23,7 +23,6 @@ public class Main {
         System.out.println(Arrays.toString(swapArray(arr3)));//打印波动数组结果
         System.out.println("对调次数：" + sumSwapArray(arr3));//交换次数
         System.out.println(Arrays.toString(swapArray(arr4)));//打印波动数组结果
-        System.out.println(Arrays.toString(changeArray(arr4)));//打印波动数组结果
         System.out.println("==========================================================================");
         System.out.println("请输入数组内数字个数");
 
